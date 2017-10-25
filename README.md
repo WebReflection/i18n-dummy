@@ -1,5 +1,5 @@
 # i18n-dummy
-The dummy version of the i18n tag function
+The dummy version of the [i18n tag function](https://github.com/WebReflection/i18n-yummy).
 
 [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/WebReflection/donate) [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
