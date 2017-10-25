@@ -1,7 +1,7 @@
 # i18n-dummy
 The dummy version of the i18n tag function
 
-[![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/WebReflection/donate) [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC) (https://coveralls.io/github/WebReflection/majinbuu?branch=master)
+[![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/WebReflection/donate) [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
 [Related post](https://codeburst.io/easy-i18n-in-10-lines-of-javascript-poc-eb9e5444d71e).
 
