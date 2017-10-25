@@ -9,7 +9,7 @@
     "cjs": "echo \"module.exports = $(cat index.js);\" > cjs/main.js",
     "esm": "echo \"export default $(cat index.js);\" > esm/main.js",
     "min": "uglifyjs index.js --compress --mungle -o min.js",
-    "test": "node -e 'console.assert(typeof require(`./`) === `function`)'"
+    "test": "node -e 'console.assert(require(`./`)`a${0}b` === `a0b`)'"
   },
   "repository": {
     "type": "git",
