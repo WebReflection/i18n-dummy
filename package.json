@@ -1,6 +1,6 @@
 {
   "name": "i18n-dummy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The dummy version of the i18n tag function",
   "main": "cjs/main.js",
   "module": "esm/main.js",
