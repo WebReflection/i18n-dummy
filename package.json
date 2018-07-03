@@ -1,6 +1,6 @@
 {
   "name": "i18n-dummy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The dummy version of the i18n tag function",
   "unpkg": "min.js",
   "main": "cjs/main.js",
